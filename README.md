@@ -1,4 +1,4 @@
-# Biblioteca_Pillow
+# Biblioteca Pillow
 Atividade realizada para aula de Linguagem de Programação 2.
 
 <div align="center">
